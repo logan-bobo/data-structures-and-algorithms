@@ -28,3 +28,8 @@ Notes about data structures and algorithms with implementations in Go and Python
 ### Depth-first Search
 
 ### Breadth-first search 
+
+---
+## Resources 
+- https://www.boot.dev/tracks/backend
+- https://www.manning.com/books/grokking-algorithms
