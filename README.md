@@ -1,5 +1,5 @@
 # Data Structures and Algorithms
-Notes about data structures and algorithms with implementations in Go and Python
+Notes about data structures and algorithms with implementations in Rust, Go and Python
 
 ### Polynomial Time
 
