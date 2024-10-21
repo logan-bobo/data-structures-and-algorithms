@@ -1,8 +1,6 @@
 # Data Structures and Algorithms
 Notes about data structures and algorithms with implementations in Go and Python
 
-## Algorithms
-
 ### Polynomial Time
 
 ### Exponential Time
@@ -10,8 +8,6 @@ Notes about data structures and algorithms with implementations in Go and Python
 ### Sorting Algorithms
 
 ### P vs NP
-
-## Data Structures 
 
 ### Stacks
 
